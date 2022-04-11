@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "236927062295",
+    "project_id": "instacut-7cd04",
+    "storage_bucket": "instacut-7cd04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236927062295:android:d1e97dc50a0519914b2752",
+        "android_client_info": {
+          "package_name": "com.example.InstaCut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236927062295-si1ct1qmscstb3th36ifonkiajsl4n9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DPxhxqg7-xX3qUDgBcRViAqxWNU0QtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236927062295-si1ct1qmscstb3th36ifonkiajsl4n9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236927062295-vkfmj51hvpj6mbgrdo2bk5pj4jjpbcjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instacurFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
